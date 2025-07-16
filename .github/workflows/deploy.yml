@@ -1,4 +1,4 @@
-name: :rocket: Build & Deploy Next.js Static to Hostinger
+name: Build & Deploy Next.js Static to Hostinger
  on:
    push:
      branches:
